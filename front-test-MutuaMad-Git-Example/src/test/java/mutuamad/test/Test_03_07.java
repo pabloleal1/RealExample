@@ -67,6 +67,7 @@ public class Test_03_07 extends CreateExtetReport {
                 reportsScreen.closeReportScreen();
                 Utilities.sleep(2000);
                 welcomeScreen.clickButtonReports();
+                System.out.println("Prueba");
 
             }
         }
